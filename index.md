@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to that assignment we are required to do
 
-You can use the [editor on GitHub](https://github.com/ejb3831/swen101/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Stuff About Me
+I went to Saint Paul Academy and Summit School in, you guessed it, Saint Paul Minnesota. My hobies include Videogames, TTRPGs, and coding. As such I have had experience using github for 5 years now. My favorite game right now is runescape, but i constantly talk about it to an annoynig amount so most people already know that.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### My favorite food
+Nope actually its just my favorite candy, but they dont sell any aroudn here so iv been thinking about it alot and im tired so thats all i could think of
+![haribo berries](https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSsbLzlZYG7n5gLtlncC-wml_wq2FTcYNI6zj9VyhJMX7X5xPT104fW1eoFeziCLBJcSeRd29dvcQ&usqp=CAc)
+also this is a picture of a rat because rat
+![rat](https://i.pinimg.com/originals/8a/c4/bd/8ac4bde92f3f940da9d0340f227abe68.jpg)
 
-### Markdown
+### link to the website
+idk why but its required i guess, here ya go:
+[RIT SE Website](http://www.se.rit.edu/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### things i want to learn from this course
+*uhhhhhhhhhhhhhhhhhhhhhhhhhh
+*nope
+*this is a required course, not taking it because i thought i would learn anything
+*going to go work on actually important things now
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ejb3831/swen101/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
