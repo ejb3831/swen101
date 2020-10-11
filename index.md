@@ -5,6 +5,7 @@ I went to Saint Paul Academy and Summit School in, you guessed it, Saint Paul Mi
 
 ### My favorite food
 Nope actually its just my favorite candy, but they dont sell any aroudn here so iv been thinking about it alot and im tired so thats all i could think of
+
 ![haribo berries](https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSsbLzlZYG7n5gLtlncC-wml_wq2FTcYNI6zj9VyhJMX7X5xPT104fW1eoFeziCLBJcSeRd29dvcQ&usqp=CAc)
 also this is a picture of a rat because rat
 ![rat](https://i.pinimg.com/originals/8a/c4/bd/8ac4bde92f3f940da9d0340f227abe68.jpg)
@@ -14,6 +15,7 @@ idk why but its required i guess, here ya go:
 [RIT SE Website](http://www.se.rit.edu/)
 
 ### things i want to learn from this course
+in the form of a bullet list:
 *uhhhhhhhhhhhhhhhhhhhhhhhhhh
 *nope
 *this is a required course, not taking it because i thought i would learn anything
