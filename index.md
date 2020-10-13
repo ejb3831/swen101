@@ -19,7 +19,5 @@ idk why but its required i guess, here ya go:
 in the form of a bullet list:
 
 * uhhhhhhhhhhhhhhhhhhhhhhhhhh
-* nope
-* this is a required course, not taking it because i thought i would learn anything
-* going to go work on actually important things now
-
+* okay lets see, a review of swot was nice kinda
+* getting experience developing as a group instead of solo i guess
